@@ -1,0 +1,9 @@
+# dotnet/MonoGame ignore patterns
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
